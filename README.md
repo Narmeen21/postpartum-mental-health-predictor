@@ -1,6 +1,6 @@
 # Postpartum Mental Health Risk Prediction System
 
-A machine learning-based web application for screening postpartum depression, anxiety, and suicide risk in new mothers.
+A machine learning-based web application for screening postpartum mental health risk in new mothers.
 
 ## Overview
 
